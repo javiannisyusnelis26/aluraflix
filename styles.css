@@ -3,3 +3,11 @@ body{
        background: black;
        
 }
+header{
+border-bottom:solid 2px rgb(111, 41, 160); 
+padding: 27px;;
+font-size: 33px;
+color: rgb(29, 206, 206);
+
+
+}
